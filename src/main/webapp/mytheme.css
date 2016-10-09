@@ -1,0 +1,14 @@
+@import url(../reindeer/legacy-styles.css);
+
+.mystyle {
+    background: yellow;
+}
+
+.v-label {
+    margin: 5px;
+    padding: 20px;
+    background: yellow;
+    color: blue;
+    font-size: 30px;
+    font-weight: bold;
+}
